@@ -1,5 +1,5 @@
 FROM ubuntu:16.04
-MAINTAINER LiamFiddler <design+docker@liamfiddler.com>
+MAINTAINER jerome
 
 # Set correct environment variables
 ENV HOME /root
